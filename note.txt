@@ -1,0 +1,7 @@
+steps to use git a project
+
+1. initialize git on the project git init
+
+git add .
+
+git add'test'
